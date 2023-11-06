@@ -3,14 +3,10 @@ package org.example;
 public class third {
     public static void main(String[] args) {
 
-        int a =43;
+        int a =23;
 
         for (int i = 1; i <= a; i++) {
             boolean divisibleByOne = i%2==0 || i%3 ==0 || i%5==0;
-            boolean divisibleByTwo = (i%2==0 && i%3 ==0) || (i%2==0 && i%5==0)
-                                        ||(i%3==0 && i%5 ==0) ;
-
-
             boolean divisibleByAll = i%2==0 && i%3 ==0 && i%5==0;
 
             if(divisibleByOne){
