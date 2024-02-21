@@ -1,8 +1,6 @@
 package org.example;
 
-import java.util.Random;
-
-public class Animal {
+public class JavaTasks6 {
     public static void main(String[] args) {
 
 //        System.out.println("isValidPassword? = " + isValidPassword("ank@Aa"));
@@ -64,10 +62,6 @@ public class Animal {
 
 
 
-//Array -- Find Maximum
-//Write a method that can find the maximum number from an int Array
-//String -- sum of digits in a string
-//Write a method that can return the sum of the digits in a strin
 
 
 

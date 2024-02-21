@@ -3,7 +3,7 @@ package org.example;
 public class Second {
     public static void main(String[] args) {
 
-        Animal animal = new Animal();
+        JavaTasks6 animal = new JavaTasks6();
 
 
         System.out.println(animal);
